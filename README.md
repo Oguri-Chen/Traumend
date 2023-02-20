@@ -36,11 +36,11 @@ npm run electron:build
 
 # 🎨预览
 
-![image](C:\Users\nikaidou\AppData\Roaming\Typora\typora-user-images\image-20230220170808941.png)
+![image](./control.png)
 
 没有两台电脑，不过在测试时已经确认控制端监听到的流是傀儡端获取的视频流了，控制指令也是
 
-![image](C:\Users\nikaidou\AppData\Roaming\Typora\typora-user-images\image-20230220171002744.png)
+![image](./controlled.png)
 
 
 
